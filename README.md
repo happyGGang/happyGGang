@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&text=%20HAPPY_GGANG%20&height=300&fontSize=90&textBg=false)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=1000&center=true&color=24b220&lines=🐹happy+GGangs+github🐹;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=1200&center=true&color=24b220&lines=🐹happy+GGangs+github🐹;)](https://git.io/typing-svg)
 
 <div style="display:flex; justify-content:center; font-size: 30px; margin-top: 100px; margin-bottom:20px">🐹 ABOUT ME 🐹</div>
 
