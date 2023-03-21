@@ -20,10 +20,10 @@
 
 ## Rapidfire 🔥
 
-- 블로그 :  [김반죽의 기술블로그](https://velog.io/@kimbanjuk) 🌱  
+<!-- - 블로그 :  [김반죽의 기술블로그](https://velog.io/@kimbanjuk) 🌱  
   
 
-- 이력서 : [이력서 보러가기](https://www.notion.so/VueJS-5ec12e5c589c4490920bfe078aa06e35)  
+- 이력서 : [이력서 보러가기](https://www.notion.so/VueJS-5ec12e5c589c4490920bfe078aa06e35)   -->
 
 
 
