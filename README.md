@@ -5,7 +5,7 @@
 
 ## Hey 👋, I'm GGang 👻  
   
-<div align="center">반갑습니다! 2년차 FE 강윤경입니다😎</div>  
+<div align="center">FE 강윤경입니다😎</div>  
   
 
 <div align="center">
