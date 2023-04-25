@@ -4,7 +4,7 @@
 
 ## Hey 👋, I'm GGang 👻
 
-<div>FE 강윤경입니다😎</div>
+<div>FE 강윤경입니다 😎</div>
 
 <br/>
 
