@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=1200&center=true&color=24b220&lines=🐹happy+GGangs+github🐹;)](https://git.io/typing-svg)
 
-## Hey 👋, I'm GGang 👻
+## Hey, I'm GGang 👻
 
 <div>FE 강윤경입니다 😎</div>
 
