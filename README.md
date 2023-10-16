@@ -4,7 +4,7 @@
 
 ## Hey, I'm GGang 👻
 
-<div>FE 깽윤꺵 꺼꾸로 해도 깽윤깽 </div>
+<div>FE 깽윤깽 꺼꾸로 해도 깽윤깽 </div>
 
 <br/>
 
