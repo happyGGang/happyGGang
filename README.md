@@ -1,4 +1,4 @@
-# Hi, I'm happyGGang! 👋
+# Hi, I'm happyGGang!
 
 안녕하세요 FE 강윤경입니다.
 ## 🔗 About Me
