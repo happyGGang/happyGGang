@@ -7,8 +7,6 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dour-september-131.notion.site/13a4484243ca4901b7c1df49e12cce50?pvs=4)
 
-contact : yooungu0520@naver.com
-
 ## 🛠 Skills
 * Next
 * React
